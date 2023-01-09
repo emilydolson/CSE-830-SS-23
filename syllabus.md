@@ -12,12 +12,11 @@ toc_icon: "cog"
 
 ### Emily Dolson
 - Pronouns: she/her
-- E-mail: dolsonem@cse.msu.edu (course-related contact should be through Piazza)
-- Office: EB 3582 (but I’ll be working from home for now)
+- E-mail: dolsonem@msu.edu (course-related contact should be through Piazza)
 
-### Acacia Ackles
-- Pronouns: she/they
-- E-mail: alackles@msu.edu (course-related contact should be through Piazza)
+## Teaching Assistant: 
+
+### Ritam Guha
 
 
 ## Office Hours:     
@@ -47,7 +46,7 @@ Advanced techniques for designing and implementing correct and efficient algorit
 
 ## Course requirements: 
 
-Internet connection, computer, ability to access MediaSpace, Piazza, and Mimir. 
+Internet connection, computer, ability to access MediaSpace, Piazza, and Gradescope. 
 
 Note: if you have trouble accessing any of these resources due to geographical restrictions, talk to the instructor and we’ll figure out a solution.
 
@@ -57,7 +56,7 @@ This course will be delivered online for at least the first three weeks of the s
 
 Synchronous meetings will be provided, but students are also allowed to take the course in an asynchronous format. We will use the following platforms:
 - Course website as an index for all course materials
-- [Mimir](https://class.mimir.io) for homework assignments
+- [Gradescope](https://www.gradescope.com/) for homework assignments
 - [Piazza](https://piazza.com/class/kjt3tx6quzy3g7) for all discussions outside of class time
 - Zoom (link e-mailed and on Piazza) for all synchronous class sessions and office hours. If you need help using Zoom, see this resource: http://www.cse.msu.edu/Students/Current_Undergrad/UsingZoom.php
 
@@ -132,11 +131,9 @@ The goal of this class is for you to **learn how to effectively design and imple
 
 ## COVID
 
-Obviously, this semester is starting off on a somewhat uncertain foot. In accordance with MSU policy, we will conduct this class remotely (via Zoom) for the first three weeks. 
+Please do not come to class if you are sick. We will happily grant whatever extensions, etc. you need to get yourself back on track once you are feeling better. 
 
-**Online Access:** If MSU chooses to resume in-person classes, we will begin having in person class meetings. In this event, all in-person classes will also be streamed over Zoom, to accomodate any students who are unable or uncomfortable to attend class in person. 
-
-**Asyncrhonous Option:** We also recognize that synchronous Zoom classes are not the ideal format for many students. Due to the pandemic, we have previously recorded videos covering the entire content of this class. If you would prefer to take the class asynchonously by simply watching these videos and doing the homework, you are welcome to do so.
+**Asynchronous Option:** Due to the pandemic, we have previously recorded videos covering the entire content of this class. If you would prefer to take the class asynchonously by simply watching these videos and doing the homework, you are welcome to do so.
 
 ## Policies:
 
