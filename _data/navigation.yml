@@ -1,0 +1,5 @@
+main:
+  - title: "Schedule"
+    url: /schedule
+  - title: "Syllabus"
+    url: /syllabus

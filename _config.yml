@@ -1,0 +1,39 @@
+remote_theme: "mmistakes/minimal-mistakes@4.20.1"
+title: CSE 830 - Algorithms
+subtitle: Spring Semester 2022
+description: Materials for the Spring Semester 2022 version of CSE 830 at Michigan State University, taught by Emily Dolson
+plugins: [jekyll-include-cache]
+repository: "emilydolson/CSE-830-SS-22"
+search: true
+
+author:
+  name: Emily Dolson
+  bio:  Assistant Professor in Computer Science & Engineering and Ecology, Evolution, & Behavior at Michigan State University
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "http://emilyldolson.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/emilydolson"      
+
+collections:
+  weeks:
+    output: true
+    permalink: /schedule/:path/
+
+defaults:
+  # _weeks
+  - scope:
+      path: "_weeks"
+      type: weeks
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      comments: false
+      share: false
+      related: false
+      toc: true
+      toc_label: "Table of Contents"
+      toc_icon: "cog"
