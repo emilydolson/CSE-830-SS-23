@@ -39,15 +39,15 @@ Below are the week-by-week topics that will be covered.
   {% assign postWeek = post.date | date: "%W" | minus: 0 %}
 
   {% if postWeek == last_week %}
-   <h2>Last week: <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+   <h2 id="LastWeek">Last week: <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
   {% endif %}
 
   {% if postWeek == this_week %}
-   <h2>This week: <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+   <h2 id="ThisWeek">This week: <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
   {% endif %}
 
  {% if postWeek == next_week %}
-   <h2>Next week: <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+   <h2 id="NextWeek">Next week: <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
   {% endif %}
 
 
