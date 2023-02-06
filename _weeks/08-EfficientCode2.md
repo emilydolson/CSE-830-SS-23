@@ -1,6 +1,6 @@
 ---
-title: "Week 7: Efficient Code 2"
-date: 2019-02-21 00:00:00
+title: "Week 8: Efficient Code 2"
+date: 2019-02-27 00:00:00
 ---
 
 **Week of {{ page.date | date: "%-m/%-d" }}**
