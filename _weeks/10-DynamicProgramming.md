@@ -1,11 +1,11 @@
 ---
-title: "Week 9: Dynamic Programming"
-date: 2019-03-14 12:00:00
+title: "Week 6: Dynamic Programming"
+date: 2019-02-14 12:00:00
 ---
 
 **Week of {{ page.date | date: "%-m/%-d" }}**
 
-# Mandatory videos 
+# Videos 
 
 ## Tuesday
 
@@ -90,8 +90,8 @@ Dynamic programming is one of the most challenging topics we'll be covering this
 
 # In class: 
 
-Review homework #3, example problems
+Review homework #2, example problems
 
 # Out: 
 
-Lecture review assignment #8
+Lecture review assignment #7
