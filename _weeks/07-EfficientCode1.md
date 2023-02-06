@@ -1,11 +1,11 @@
 ---
 title: "Week 6: Efficient Code 1"
-date: 2019-02-14 12:00:00
+date: 2019-02-20 12:00:00
 ---
 
 **Week of {{ page.date | date: "%-m/%-d" }}**
 
-# In class videos
+# Videos
 
 ## Tuesday
 
