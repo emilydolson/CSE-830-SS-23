@@ -1,5 +1,5 @@
 ---
-title: "Week 6: Efficient Code 1"
+title: "Week 7: Efficient Code 1"
 date: 2019-02-20 12:00:00
 ---
 
